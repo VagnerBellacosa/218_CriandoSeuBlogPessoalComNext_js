@@ -34,7 +34,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Hands-on: Criando o Seu Blog Pessoal com Next.js](https://web.dio.me/lab/criar-um-blog-pessoal-com-nextjs/learning/b2ed10d7-bf18-4248-ba34-75c47625a1b3)[Entendendo o Desafio](https://web.dio.me/lab/criar-um-blog-pessoal-com-nextjs/learning/185de5bb-84f5-4eff-981e-6cab5f688207)
+- [Hands-on: Criando o Seu Blog Pessoal com Next.js](https://web.dio.me/lab/criar-um-blog-pessoal-com-nextjs/learning/b2ed10d7-bf18-4248-ba34-75c47625a1b3)
+- [Entendendo o Desafio](https://web.dio.me/lab/criar-um-blog-pessoal-com-nextjs/learning/185de5bb-84f5-4eff-981e-6cab5f688207)
 
 
 
